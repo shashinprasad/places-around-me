@@ -29,7 +29,7 @@ REG NO:212222230144
 
 '''
 index.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -76,9 +76,9 @@ index.html
 
     </body>
 </html>
-
+```
 sec.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -114,9 +114,9 @@ sse.html
     </body>
 
 </html>
-
+```
 scon.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -133,9 +133,9 @@ scon.html
     </body>
 
 </html>
-
+```
 simats.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -153,9 +153,9 @@ simats.html
     </body>
 
 </html>
-
+```
 sca.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -168,15 +168,37 @@ sca.html
         </center>
         <p style="font-size: 24px">
             Saveetha College of Architecture and Design (SCAD), SIMATS is one of the premier Architecture institutes located in Chennai, Tamil Nadu. The Collegeis a constituent unit of Saveetha College of Medical and Technical Sciences (SIMATS). SCAD was set up with a vision to improve standards in Architecture education, promote high-quality research in the field and play a key role in constructing sustainable buildings. The Collegeoffers BArch as its only academic programme. With emphasis on practical experience, SCAD Chennai helps its students with innovative expression, research, critical thinking, and creative exploration. It has collaborations with popular international universities and has signed MoUs (Memorandums of Understanding) with Penn State University, Gachon University and several other international universities. SCAD provides opportunities to take credit courses and involve in trans-disciplinary projects from Medical, Dental and Engineering streams.
-</p>
+</p>![2023-06-07 (1)](https://github.com/shashinprasad/places-around-me/assets/129143499/26c9279a-de93-4cee-b19d-5141aa2ab761)
+
     </body>
 
 </html>
-
+```
 
 
 ## Output:
-Include your output screenshot here
+### client output
+### map
+
+![2023-06-07 (1)](https://github.com/shashinprasad/places-around-me/assets/129143499/0a75bc3c-b0e5-4a06-a409-57362f1a2e9a)
+
+### sec 
+![2023-06-07 (3)](https://github.com/shashinprasad/places-around-me/assets/129143499/173f178d-eb67-49ea-88b2-9cac9e184581)
+
+### sse
+![2023-06-07 (4)](https://github.com/shashinprasad/places-around-me/assets/129143499/69c26fc7-f93c-4858-91ee-6aca5ea89b44)
+
+### scon 
+![2023-06-07 (2)](https://github.com/shashinprasad/places-around-me/assets/129143499/873bbf40-229c-4d82-b5dc-2b6d373e411f)
+
+### simats 
+![2023-06-07 (6)](https://github.com/shashinprasad/places-around-me/assets/129143499/3dc9d8af-99e1-450d-9f3d-05bece41ca85)
+
+### sca 
+![2023-06-07 (5)](https://github.com/shashinprasad/places-around-me/assets/129143499/5205bd31-e974-4039-90a4-b7d1ab45fb0d)
+
+### server output
+![2023-06-07 (7)](https://github.com/shashinprasad/places-around-me/assets/129143499/45ff0b3a-9604-4558-a034-0202304a9b6d)
 
 ## Result:
 Hence a website has been developed to display details about the colleges around saveetha university.
